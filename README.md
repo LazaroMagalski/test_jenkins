@@ -6,4 +6,4 @@ testando jenkins
 * https://www.jenkins.io/
 * https://blog.xpeducacao.com.br/jenkins/
 * https://mundodevops.com/blog/primeiros-passos-com-o-jenkins
-8 https://www.gocache.com.br/dicas/o-que-e-jenkins-para-iniciantes/
+* https://www.gocache.com.br/dicas/o-que-e-jenkins-para-iniciantes/
